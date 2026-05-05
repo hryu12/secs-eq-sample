@@ -1,0 +1,27 @@
+﻿빌드 시작: 2026-05-04 오후 8:59:14
+     1>2 노드의 "C:\Users\ryu\Documents\Linkgenesis\XComPro v1.x\Sample\Visual C++\EqSample\EqSample\EqSample.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Release\EqSample.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         모든 출력이 최신 상태입니다.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /D WIN32 /D _WINDOWS /D NDEBUG /D _MBCS /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\EqSample.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt EqSampleDlg.cpp
+         EqSampleDlg.cpp
+       ResourceCompile:
+         모든 출력이 최신 상태입니다.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"./EqSample.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"Release\EqSample.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\ryu\Documents\Linkgenesis\XComPro v1.x\Sample\Visual C++\EqSample\EqSample\EqSample.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"./EqSample.lib" /MACHINE:X86 Release\EqSample.res
+         Release\BridgeClient.obj
+         Release\EqSample.obj
+         Release\EqSampleDlg.obj
+         Release\stdafx.obj
+         EqSample.vcxproj -> C:\Users\ryu\Documents\Linkgenesis\XComPro v1.x\Sample\Visual C++\EqSample\EqSample\./EqSample.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"./EqSample.exe;#1" /manifest Release\EqSample.exe.intermediate.manifest "c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         "Release\EqSample.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Release\EqSample.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\ryu\Documents\Linkgenesis\XComPro v1.x\Sample\Visual C++\EqSample\EqSample\EqSample.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.90
