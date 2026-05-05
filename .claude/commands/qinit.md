@@ -9,6 +9,7 @@
      "사용법: /qinit <remote-url>"
 2. 실행할 명령어 목록을 사용자에게 보여주고 승인을 받는다.
    ```
+   git init
    git add .
    git commit -m "first commit"
    git branch -M main
